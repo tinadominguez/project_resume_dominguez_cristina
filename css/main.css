@@ -67,7 +67,7 @@ main {
 }
 
 article {
-    max-width: 600px;
+    max-width: 800px;
     padding: 10px;
     align-content: center;
     margin-left: auto;
@@ -75,9 +75,9 @@ article {
 }
 
 section {
-    max-width: 600px;
+    max-width: 400px;
     padding: 10px;
-    align-content: center;
     margin-left: auto;
     margin-right: auto;
+    float: left;
 }
