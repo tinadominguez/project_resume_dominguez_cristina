@@ -48,6 +48,7 @@ ul li {
 
 
 a {
+    font-size: 1.3em;
     color: #549388;
     text-decoration: none;
     font-family: 'Lato', sans-serif;
@@ -59,12 +60,45 @@ a:hover {
 
 hr {
     color: #549388;
+    align-content: center;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 main {
     max-width: 1200px;
     display: block;
 }
+
+/*header section*/
+header {
+    max-width: 800px;
+    padding: 10px;
+    align-content: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.photo img {
+    display: block;
+    float: right;
+    height: 30%;
+    width: 30%; 
+}
+
+@media (min-width: 950px) {
+#logo img {
+    display: block;
+    width: 20%;
+    }
+}
+
+ul li img {
+    height: 5%;
+    width: 5%;
+}
+
+/*main content*/ 
 
 article {
     max-width: 800px;
@@ -75,14 +109,10 @@ article {
 }
 
 section {
-    max-width: 400px;
-    padding: 50px;
-    float: left;
-    
-}
-
-aside {
+    max-width: 300px;
     padding: 15px;
+    margin-left: auto;
+    margin-right: auto; 
 }
 
 ol li {
