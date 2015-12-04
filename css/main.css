@@ -41,7 +41,7 @@ p {
     font-size: 14px; 
 }
 
-li {
+ul li {
     list-style-type: none;
     display: inline;
 }
@@ -76,8 +76,15 @@ article {
 
 section {
     max-width: 400px;
-    padding: 10px;
-    margin-left: auto;
-    margin-right: auto;
+    padding: 50px;
     float: left;
+    
+}
+
+aside {
+    padding: 15px;
+}
+
+ol li {
+    padding: 1px;
 }
