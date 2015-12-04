@@ -22,14 +22,14 @@ h1 {
 }
 
 h2 {
-    font-size: 1.8em;
+    font-size: 1.6em;
     font-family: 'Josefin Slab', serif;
     margin: 10px;
     color: #68aa71;
 }
 
 h3 {
-    font-size: 1.4em;
+    font-size: 1.3em;
     font-family: 'Josefin Slab', serif;
     color: #68aa71;
     margin: 10px;
@@ -48,7 +48,7 @@ li {
 
 
 a {
-    color: #68aa71;
+    color: #549388;
     text-decoration: none;
     font-family: 'Lato', sans-serif;
 }
@@ -57,12 +57,17 @@ a:hover {
     text-decoration: underline;
 }
 
+hr {
+    color: #549388;
+}
+
 main {
     max-width: 1200px;
     display: block;
 }
 
 article {
+    max-width: 600px;
     padding: 10px;
     align-content: center;
     margin-left: auto;
