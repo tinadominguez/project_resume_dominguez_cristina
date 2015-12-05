@@ -26,13 +26,13 @@ h2 {
     font-size: 1.2em;
     font-family: 'Lato', sans-serif;
     margin: 10px;
-    color: #68aa71;
+    color: #601848;
 }
 
 h3 {
     font-size: 1em;
     font-family: 'Lato', sans-serif;
-    color: #68aa71;
+    color: #601848;
     margin: 10px;
 }
 
@@ -50,7 +50,7 @@ ul li {
 
 a {
     font-size: 1em;
-    color: #549388;
+    color: #68aa71;
     text-decoration: none;
     font-family: 'Lato', sans-serif;
 }
@@ -119,13 +119,7 @@ article {
     align-content: center;
     margin-left: auto;
     margin-right: auto;
-}
-
-section {
-    max-width: 300px;
-    padding: 15px;
-    margin-left: auto;
-    margin-right: auto; 
+    margin-bottom: 10px;
 }
 
 ol li {
