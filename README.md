@@ -14,4 +14,4 @@ This plugin changes the background of the page to different colors. I thought it
 Tabs -
 http://os.alfajango.com/easytabs/
 
-This plugin allowed me to put tabs on the page. I felt the tabs helped me organize the last pieces of information for my resume without making too much clutter. They were all small, but necessary sections to include. My only issue was not being able to figure out how to add a border to the bottom of the tab. 
+This plugin allowed me to put tabs on the page. I felt the tabs helped me organize the last pieces of information for my resume without making too much clutter. They were all small, but necessary sections to include. My only issue was not being able to figure out how to add a border to the bottom of the tab. I think that would've looked a little cleaner. 
